@@ -1,0 +1,5 @@
+venv/
+.venv/
+__pycache__/
+python-app-deploy/
+.DS_Store
